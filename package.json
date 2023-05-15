@@ -1,0 +1,19 @@
+{
+  "name": "debug",
+  "version": "1.0.0",
+  "description": "find a bug",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danielsafari143/debug.git"
+  },
+  "author": "Safari Hamuli",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/danielsafari143/debug/issues"
+  },
+  "homepage": "https://github.com/danielsafari143/debug#readme"
+}
